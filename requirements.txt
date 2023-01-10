@@ -1,0 +1,11 @@
+pytorch-lightning==1.8.2
+torchvision==0.14.0
+wandb==0.13.5
+editdistance==0.6.1
+fastapi==0.66.0
+uvicorn==0.14.0
+streamlit==0.84.0
+hydra-core==1.1.0
+albumentations==1.0.3
+torchmetrics==0.10.3
+setuptools==65.5.1
