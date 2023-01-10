@@ -19,6 +19,7 @@
 ## 评价指标
 
 本实验采用字符错误率（Character Error Rate，CER）作为评价指标，每当在表达式中发生替换、删除和增加时，都记作一次错误。
+
 $$
 CER=\frac{N_{sub} +N_{del} +N_{ins} }{N}=\frac{N_{sub}+N_{del}+N_{ins} }{N_{sub} +N_{del} +N_{cor} }
 $$
